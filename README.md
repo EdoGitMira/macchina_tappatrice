@@ -3,7 +3,7 @@
 Progetto che consiste nel disegno di una macchina tappatrice e nella progettazione di alcuni componenti di essa come ad esempio gli organi di trasmissione e il blocco sotto vuoto
 
 ## TEAM
-|<a href="https://github.com/campregher99" target="_blank">**Fracesco Campregher**</a> |<a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | <a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> | <a href="https://github.com/99Abdel" target="_blank">**Abdelghani Msaad**</a> |
+|<a href="https://github.com/campregher99" target="_blank">**Francesco Campregher**</a> |<a href="https://marcomilanesi.com/" target="_blank">**Marco Milanesi**</a> | <a href="https://github.com/EdoGitMira" target="_blank">**Edoardo Mirandola**</a> | <a href="https://github.com/99Abdel" target="_blank">**Abdelghani Msaad**</a> |
 | :---: |:---:|:---:|:---:|
 |<a href="https://github.com/campregher99" target="_blank">`github.com/campregher99`</a>| <a href="https://github.com/marco-milanesi" target="_blank">`github.com/marco-milanesi`</a> | <a href="https://github.com/EdoGitMira" target="_blank">`github.com/EdoGitMira`</a> |<a href="https://github.com/99Abdel" target="_blank">`github.com/99Abdel`</a>|
 
